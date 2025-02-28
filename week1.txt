@@ -1,3 +1,4 @@
 Tạo thử 1 file week1.txt
 Pull thử lên trang và main
+Pull thử lên trang và week1
 Dùng smartigt mà thôi
